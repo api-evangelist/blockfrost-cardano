@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://blockfrost.io/
 common:
+  - type: DomainSecurity
+    url: security/blockfrost-cardano-domain-security.yml
   - type: Website
     url: https://blockfrost.io/
   - type: PublicAPIsListing
