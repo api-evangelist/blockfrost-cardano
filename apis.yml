@@ -39,7 +39,6 @@ apis:
   - name: blockfrost Cardano
     description: "Interaction with the Cardano mainnet and several testnets"
     humanURL: https://blockfrost.io/
-    baseURL: https://blockfrost.io/
     tags:
       - Cryptocurrency
     properties:
