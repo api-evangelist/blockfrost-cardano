@@ -27,7 +27,7 @@ description: "Interaction with the Cardano mainnet and several testnets"
 url: https://blockfrost.io/
 specificationVersion: '0.23'
 created: '2026-05-28'
-modified: '2026-05-28'
+modified: '2026-10-06'
 x-source: public-apis/public-apis
 x-category: "Cryptocurrency"
 x-tier: 3
@@ -45,6 +45,8 @@ apis:
       - type: Documentation
         url: https://blockfrost.io/
 common:
+  - url: https://blog.blockfrost.io/rss/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/blockfrost-cardano-domain-security.yml
   - type: Website
